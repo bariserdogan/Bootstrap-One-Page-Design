@@ -1,0 +1,120 @@
+.h900
+{
+	height: 90px;
+	background-color: white;
+}
+.backright
+{
+	background-color: #41CAC0;
+}
+.backleft
+{
+	background-color: #00A8B3;
+}
+.ustrow
+{
+	min-height:90px;
+}
+.resim
+{
+	margin-top: 12px; 
+	border:1px solid #00A8B3;
+	border-radius: 4px;
+	margin-left: 0;
+
+}
+.spa
+{
+	font-size: 22px;
+	text-align: center;
+	color:white;
+	margin-left: -40px;
+	margin-top: 25px;
+}
+.inp
+{
+	background-color: #393939;
+	opacity: 1;
+	font-weight:400;
+	margin-top: 30px; 
+	float:left;
+	width: 190px;
+	border-radius: 4px;
+	border:1px solid #00A8B3;
+	margin-left: 30px;
+
+}
+.ara
+{
+	float:left;
+	margin-top: 30px;
+	background-color: #00A6B2;
+	color:white;
+}
+.compose
+{
+	border:1px dotted black;
+	margin-top: 30px;
+	margin-left: 40px;
+	margin-right: 20px;
+}
+.row1
+{
+	background-color: #E5E8EF;
+	height: 100px;
+}
+.altcont
+{
+	height: 500px;
+}
+.compose
+{
+	margin-top: 20px;
+	height: 60px;
+	color:black;
+}
+.otherrows
+{
+	background-color: #E5E8EF;
+	height: 60px;
+	opacity: 0.9;
+}
+.badgein
+{
+	background-color: #D95250;
+	color:white;
+	margin-top: 20px;
+}
+.badgedraft
+{
+	background-color:#59BFDE;
+	color:white;
+	margin-top: 20px;
+}
+.otherrows:hover
+{
+	background-color: #D4D7DE;
+	cursor: pointer;
+}
+.rightcont
+{
+	height: 550px;
+}
+.lists
+{
+	padding-left: 40px;
+}
+.lists1
+{
+	padding-left: 80px;
+}
+.lists2
+{
+	padding-left: 120px;
+}
+.come:hover
+{
+	font-size: 36px;
+	color:#00A8B3;
+	padding-top:5px;
+}
